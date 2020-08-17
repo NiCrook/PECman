@@ -1,0 +1,2 @@
+# PECman
+Poker Equity Calculator
