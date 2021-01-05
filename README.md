@@ -8,7 +8,7 @@ v1.05
 Under Construction
 
 # Demo
-placeholder
+![](pecpy.gif)
 
 # Built With
 Python
